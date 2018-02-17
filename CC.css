@@ -19,7 +19,7 @@ img {
   height: 50%;
   width: 50%;
   background-color: purple;
-  border-style: ridge;
+  border-style: outset;
 }
 p {
   font-size: 3em;
