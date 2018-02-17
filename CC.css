@@ -13,6 +13,7 @@ h3 {
   background-color: purple;
   border-style: outset;
   border-color: purple;
+  text-shadow: 1.5px 1px black;
 }
 img {
   border-style: outset;
