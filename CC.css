@@ -1,4 +1,4 @@
-h1 {
+.header {
   color: white;
   font-family: 'Comic Sans MS';
   background-color: purple;
@@ -26,4 +26,13 @@ img {
 p {
   font-size: 3em;
   font-family: 'Comic Sans MS';
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+.sticky + .content {
+  padding-top: 102px;
 }
