@@ -1,12 +1,13 @@
 .header {
   color: white;
+  padding: 10px 16px;
   font-family: 'Comic Sans MS';
   background-color: purple;
   font-size: 4em;
   border-style: outset;
   border-color: purple;
   text-shadow: 4px 3px black;
-}
+}  
 h3 {
   color: white;
   font-family: 'Comic Sans MS';
