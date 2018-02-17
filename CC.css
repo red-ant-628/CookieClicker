@@ -5,6 +5,7 @@ h1 {
   font-size: 4em;
   border-style: outset;
   border-color: purple;
+  text-shadow: 3px 2px black;
 }
 h3 {
   color: white;
