@@ -1,0 +1,19 @@
+h1 {
+  color: white;
+  font-family: 'Comic Sans MS';
+  background-color: purple;
+  font-size: 4em;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+  background-color: purple;
+}
+div {
+  font-size: 6em;
+}
+p {
+  font-size: 3em;
+  font-family: 'Comic Sans MS';
+}
