@@ -3,16 +3,19 @@ h1 {
   font-family: 'Comic Sans MS';
   background-color: purple;
   font-size: 4em;
+  border-style: ridge;
 }
 h3 {
   color: white;
   font-family: 'Comic Sans MS';
   background-color: purple;
+  border-style: ridge;
 }
 img {
   height: 50%;
   width: 50%;
   background-color: purple;
+  border-style: ridge;
 }
 div {
   font-size: 6em;
