@@ -3,22 +3,23 @@ h1 {
   font-family: 'Comic Sans MS';
   background-color: purple;
   font-size: 4em;
-  border-style: ridge;
+  border-style: outset;
+  border-color: purple;
 }
 h3 {
   color: white;
   font-family: 'Comic Sans MS';
   background-color: purple;
-  border-style: ridge;
+  border-style: outset;
+  border-color: purple;
 }
 img {
+  border-style: outset;
+  border-color: purple;
   height: 50%;
   width: 50%;
   background-color: purple;
   border-style: ridge;
-}
-div {
-  font-size: 6em;
 }
 p {
   font-size: 3em;
