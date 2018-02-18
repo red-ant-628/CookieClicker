@@ -23,7 +23,7 @@ img {
   background-color: purple;
   border-style: outset;
 }
-p {
+p, ul {
   font-size: 3em;
   font-family: 'Comic Sans MS';
 }
